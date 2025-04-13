@@ -27,7 +27,7 @@ This dataset contains information about bank customers and provides opportunitie
 
 - **Power BI** – used to build an interactive dashboard
 
-🔗 [**View Dashboard**]([https://app.powerbi.com/view?r=eyJrIjoiYTkxNDdhMjYtYWM5YS00OTk3LWExOGEtMDg3YzAyODg5NmIwIiwidCI6IjFkODBkNTgxLThlNmEtNGFmNi05MjIyLTk2MTBiMWJlYTRlMSIsImMiOjl9](https://app.powerbi.com/view?r=eyJrIjoiMTY5NzRiNmItOTVmNy00YjVmLTk2NGEtMGJjNDMzZjlkMTcxIiwidCI6IjFkODBkNTgxLThlNmEtNGFmNi05MjIyLTk2MTBiMWJlYTRlMSIsImMiOjl9))
+🔗 [**View Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiMTY5NzRiNmItOTVmNy00YjVmLTk2NGEtMGJjNDMzZjlkMTcxIiwidCI6IjFkODBkNTgxLThlNmEtNGFmNi05MjIyLTk2MTBiMWJlYTRlMSIsImMiOjl9)
 
 ---
 
@@ -54,4 +54,4 @@ This dataset contains information about bank customers and provides opportunitie
 
 ---
 
-![Dashboard Screenshot](https://github.com/user-attachments/assets/a9b8336b-8910-4485-a416-26f8962f2738)
+![Dashboard Screenshot](https://github.com/viktoriia-dudar/bank_customer_data_analysis_Eng/blob/main/bank_customer_data_analysis_dashboard_eng.PNG)
